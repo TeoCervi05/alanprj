@@ -1,5 +1,4 @@
-# ALAN PROJECT
-By TeoCervi05
+# ALAN PROJECT (by TeoCervi05)
 A modular AI assistant built from scratch and written in python.
 
 # GOAL:
