@@ -52,6 +52,22 @@ Alan
 
 ---
 
+## 4. Application Lifecycle
+
+Alan's lifecycle is the following:
+
+Created
+  |
+Initialized
+  |
+Running
+  |
+Shutting down
+  |
+Stopped
+
+---
+
 ## 4. Core
 
 The Core is responsible for coordinating the system.
